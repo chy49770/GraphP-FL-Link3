@@ -6,7 +6,7 @@
   | FedAGHN | $87.12 \pm 0.88$ | $86.09 \pm 0.75$ | $84.95 \pm 0.65$ | $83.68 \pm 1.15$ | $80.12 \pm 3.25$ | $82.70 \pm 0.82$ | $81.54 \pm 0.95$ |
   | **Ours** | **$95.79 \pm 0.43$** | **$87.86 \pm 0.33$** | **$92.43 \pm 0.54$** | **$82.56 \pm 0.88$** | **$86.25 \pm 0.47$** | **$92.75 \pm 0.53$** | **$90.27 \pm 0.65$** |
 
-<p align="center">
+<p>
   <img src="Figure1.png" alt="训练轮数与超参数动态调整曲线" width="50%">
   <br>
   <b>Figure 1: Performance Analysis of training rounds and hyperparameter dynamic adjustment curve</b>
